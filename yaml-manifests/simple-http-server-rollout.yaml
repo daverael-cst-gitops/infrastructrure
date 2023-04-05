@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: simple-http-server
-        image: ghcr.io/daverael-cst-gitops/simple-http-server:4622246345
+        image: ghcr.io/daverael-cst-gitops/simple-http-server:4622706797
         ports:
         - containerPort: 8080
   strategy:
